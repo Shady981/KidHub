@@ -1,7 +1,7 @@
 const config = {
     // API Endpoints
     api: {
-        baseUrl: 'http://your-backend-url/api',
+        baseUrl: 'https://kidhub-api.onrender.com/api',
         endpoints: {
             auth: {
                 login: '/auth/login',
